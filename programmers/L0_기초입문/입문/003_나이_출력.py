@@ -2,8 +2,8 @@
 # 프로그래머스 L0 (기초·입문)
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/120820
 # 알고리즘: 기초
-# 작성자: 조현영
-# 작성일: 2026. 07. 18. 13:32:18
+# 작성자: 학생
+# 작성일: 2026. 08. 01. 14:28:50
 
 def solution(age):
     answer = 2022 - age +1
